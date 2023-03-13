@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm zedmat(Harsh)</h1>
 <h3 align="center">As an enthusiastic backend developer and machine learning enthusiast hailing from India, I revel in the exciting world of programming and technology. I thrive on developing high-performance systems that can tackle modern-day business needs, and my expertise in Python and related frameworks has equipped me with the tools to make it happen. I love exploring new technologies and solving real-world problems with creative solutions, and I'm always excited to learn and grow in this rapidly evolving field.</h3>
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkMTcyNWMyODhhYWQ4MmI3NDU1ZDhmMGJmMDM4ODAxN2JjNThmOSZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="150" height="150" />
+
 - 🔭 I’m currently working on [Hand Sign Recognition](https://github.com/harshkasat/projectMLHprefellowship-)
 
 - 🌱 I’m currently learning **Tensorflow and django**
 
-- ⚡ Fun fact **Do or Don't There is NO Try**
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkMTcyNWMyODhhYWQ4MmI3NDU1ZDhmMGJmMDM4ODAxN2JjNThmOSZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="150" height="150" />
-
+- ⚡ Fun fact **Do or Don't There is NO Try*                
 
 
 
