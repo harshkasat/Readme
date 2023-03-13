@@ -7,6 +7,11 @@
 
 - ⚡ Fun fact **Do or Don't There is NO Try**
 
+
+
+
+<img src="https://giphy.com/clips/rick-roll-ashley-AyYIXWiekT79rV8rQr" width="40" height="40" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsh__kasat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh__kasat" height="30" width="40" /></a>
