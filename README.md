@@ -8,9 +8,10 @@
 - ⚡ Fun fact **Do or Don't There is NO Try**
 
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkMTcyNWMyODhhYWQ4MmI3NDU1ZDhmMGJmMDM4ODAxN2JjNThmOSZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" width="40" height="40" />
 
 
-<img src="https://giphy.com/clips/rick-roll-ashley-AyYIXWiekT79rV8rQr" width="40" height="40" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
