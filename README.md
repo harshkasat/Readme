@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RiY2M3N2M5YTc5NGEyYTY1ZTlhNzgwN2QwMDM5NDcxMWJmMjU2OSZjdD1z/fvx95jkua5th3YeThr/giphy.gif" width="500" height="500" />
 
-- 🔭 I’m currently working on [Hand Sign Recognition](https://github.com/harshkasat/projectMLHprefellowship-)
+- 🔭 I’m currently working on [Facial_Emotion_Recognition](https://github.com/harshkasat/Facial_emotions)
 
 - 🌱 I’m currently learning **Tensorflow and django**
 
