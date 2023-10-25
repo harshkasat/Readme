@@ -1,3 +1,6 @@
+[![An image of @harshkasat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshkasat)](https://holopin.io/@harshkasat)
+
+
 <h1 align="center">Hi 👋, I'm zedmat(Harsh)</h1>
 <h3 align="center">As an enthusiastic backend developer and machine learning enthusiast hailing from India, I revel in the exciting world of programming and technology. I thrive on developing high-performance systems that can tackle modern-day business needs, and my expertise in Python and related frameworks has equipped me with the tools to make it happen. I love exploring new technologies and solving real-world problems with creative solutions, and I'm always excited to learn and grow in this rapidly evolving field.</h3>
 
@@ -25,5 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=harshkasat&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshkasat&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkasat&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![An image of @harshkasat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshkasat)](https://holopin.io/@harshkasat)
